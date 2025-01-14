@@ -1,5 +1,5 @@
 - 👋 Hi, I’m: @Flurcie
-- 🌱 I’m currently learning: Java
+- 🌱 I’m currently learning: Minecraft Modding
 - 📫 How to reach me: Please don't.
 
 <!---
